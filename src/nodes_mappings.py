@@ -23,6 +23,6 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "SaveImageWithBucketPathS3": "Save Image to Bucket path S3",
     "SaveVideoFilesS3": "Save Video Files to S3",
     "DownloadFileS3": "Download File from S3",
-    "EasyDownloadFileS3": "Download File from S3",
+    "EasyDownloadFileS3": "Easy Download File from S3",
     "UploadFileS3": "Upload File to S3"
 }

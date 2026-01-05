@@ -1,4 +1,4 @@
-from .nodes.load_image_s3 import LoadImageS3, LoadImageS3Path,EasyLoadImageS3
+from .nodes.load_image_s3 import LoadImageS3, LoadImageS3Path
 from .nodes.save_image_s3 import SaveImageS3,SaveImageWithBucketPathS3
 from .nodes.save_video_files_s3 import SaveVideoFilesS3
 from .nodes.download_file_s3 import DownloadFileS3,EasyDownloadFileS3
